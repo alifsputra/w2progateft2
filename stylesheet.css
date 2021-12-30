@@ -1,0 +1,13 @@
+p {
+    float: left;
+    margin: 0px;
+    font-weight: bold;
+}
+
+input {
+    margin-left: 10px;
+}
+
+/* p #result {
+    font-weight: bold;
+} */
